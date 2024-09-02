@@ -23,7 +23,7 @@ The objective of the Ecommerce Sales Dashboard project is to assist the owner of
 
 # Screenshots of the Dashboard:
 
-![Ecommerce Sales 1](https://github.com/KALASHSHAR/Sales-Dashboard/blob/457cf5a06db39803f08d7318894c743271b4335e/dasboards/Ecommerce%20Sales%20Dashboard%201.jpg)
+![Ecommerce Sales 1](https://github.com/KALASHSHAR/Sales-Dashboard/blob/50914167093a212e5f5f6c8063d6a88c1cb3b052/dasboards/Ecommerce%20Sales%20Dashboard%201.jpg)
 
 ![Ecommerce Sales 2](https://github.com/KALASHSHAR/Sales-Dashboard/blob/7f49732136485ad28ea1aa0515cad3769eb41acc/dasboards/Ecommerce%20Sales%20Dashboard%202.jpg)
 
